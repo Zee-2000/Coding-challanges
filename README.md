@@ -5,3 +5,6 @@ In this project I'm buliding my own wc command line in Unix, the command is call
 
 this peogram will be made by C language which is suitable for building this command line 
 
+Steps to be done :
+a-create function that parses eaach line in the CLI (Command Line interpreter)
+
