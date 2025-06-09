@@ -1,10 +1,15 @@
 this is my first real life project that can improve my skills in programming
-My first step in applying on the rea life projects 
+My first step in applying on the real life projects 
 
 In this project I'm buliding my own wc command line in Unix, the command is called ccwc, which is part of Coding challanges track.
 
-this peogram will be made by C language which is suitable for building this command line 
+this program will be made by Node.js  which is suitable for building this command line and able to read files
+a flow chart will be uploaded with the project 
 
-Steps to be done :
+Required Steps :
 a-create function that parses eaach line in the CLI (Command Line interpreter)
+b- read the file
+c-count the number of bytes in test file
+d- count the number of words in test file 
+
 

@@ -1,0 +1,20 @@
+{
+  "name": "coding-challanges",
+  "version": "1.0.0",
+  "description": "this is my first real life project that can improve my skills in programming My first step in applying on the real life projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zee-2000/Coding-challanges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zee-2000/Coding-challanges/issues"
+  },
+  "homepage": "https://github.com/Zee-2000/Coding-challanges#readme"
+}
