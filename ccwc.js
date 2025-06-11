@@ -21,8 +21,8 @@ fs.readFile('./test' ,'utf-8', (err, data)=>
     console.log(`Number of lines: ${lines.length}`);
     //count the number of words in the file
     const words = data.split('/s+');
-    console.log(`Number of words:{words.length}`);
+    console.log(`Number of words:${words.length}`);
     const char = data.length;
-    console.log(`Number of characters:{char.length}`);
+    console.log(`Number of characters:${char.length}`);
 }
 );
