@@ -23,6 +23,6 @@ fs.readFile('./test' ,'utf-8', (err, data)=>
     const words = data.split('/s+');
     console.log(`Number of words:${words.length}`);
     const char = data.length;
-    console.log(`Number of characters:${char.length}`);
+    console.log(`Number of characters:${char}`);
 }
 );
